@@ -1,0 +1,138 @@
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\become_daemon.c
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\become_daemon.h
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\binary_sems.c
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\binary_sems.h
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\create_pid_file.c
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\create_pid_file.h
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\curr_time.c
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\curr_time.h
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\event_flags.c
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\event_flags.h
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\file_perms.c
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\file_perms.h
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\inet_sockets.c
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\inet_sockets.h
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\itimerspec_from_str.c
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\itimerspec_from_str.h
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\print_rlimit.c
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\print_rlimit.h
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\print_rusage.c
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\print_rusage.h
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\print_wait_status.c
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\print_wait_status.h
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\pty_fork.c
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\pty_fork.h
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\pty_master_open.c
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\pty_master_open.h
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\rdwrn.c
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\rdwrn.h
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\read_line_buf.c
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\read_line_buf.h
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\read_line.c
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\read_line.h
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\region_locking.c
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\region_locking.h
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\semun.h
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\signal.c
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\signal_functions.c
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\signal_functions.h
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\tty_functions.c
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\tty_functions.h
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\ugid_functions.c
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\ugid_functions.h
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\unix_sockets.c
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\unix_sockets.h
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\userns_functions.c
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
+! C:\Users\ShiShuo\Desktop\tlpi-180701-book.tar.gz: 无法创建符号链接 C:\Users\ShiShuo\Desktop\tlpi-180701-book\tlpi-book\lib\userns_functions.h
+! 您可能需要以管理器身份运行 WinRAR
+  客户端没有所需的特权。
